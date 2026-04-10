@@ -1,3 +1,4 @@
+package gui.delgado.semana2;
 public class MinhaClasse {
 
     public static void main (String [] args) {
