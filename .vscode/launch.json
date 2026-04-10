@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "gui.delgado.semana3.Operadores",
+            "projectName": "dio-java-basico_1b737cd3"
+        },
+        {
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"
