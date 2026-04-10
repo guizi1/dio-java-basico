@@ -3,7 +3,7 @@ package gui.delgado.semana1;
 public class BoletimEstudantil {
     public static void main(String[] args){
 
-        int mediaFinal = 4;
+        int mediaFinal = 10;
         
         if(mediaFinal < 6)
             System.out.println("Reprovado");
